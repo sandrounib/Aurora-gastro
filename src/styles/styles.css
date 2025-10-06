@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-primary-orange:#EA6D27;
+    --color-secondary-white:#FFFFFF;
+    --color-secondaty-dark: #101821;
+    --color-secondary-gray: #5C6574;
+
+    --color-alerts-green: #004E05;
+    --color-alerts-red: #770000;
+
+    --font-headline-h1-size:60px;
+    --font-headline-h2-size:48px;
+    --font-headline-h3-size:28px;
+    --font-headline-h4-size:22px;
+    --font-body-size:20px;
+    --font-button-size:20px;
+
+    --font-title:"David Libre", serif;
+    --font-body:"Inter", sans-serif;
+
+}
